@@ -1,6 +1,5 @@
 import React from "react";
-import { FaLinkedin, FaInstagram, FaGithub } from "react-icons/fa";
-import { FaXTwitter } from "react-icons/fa6";
+import { FaLinkedin, FaGithub } from "react-icons/fa";
 import styled from "styled-components";
 
 const Social = styled.div`
