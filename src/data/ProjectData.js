@@ -22,7 +22,7 @@ export const ProjectList = [
     img: "/assets/WeCare.png",
     title: "WeCare",
     description:
-      "WeCare is an insurance portal where customers can check and mpare premium for mulitple companies in a single application; and buy policies, get claims , inform and also get the claims settled.",
+      "WeCare is an insurance portal where customers can check and compare premium for multiple insurance companies in a single application; and buy policies, get claims , inform and also get the claims settled.",
     tech_stack: "MySQL, Java Swing, JavaMail",
     github_url: "https://github.com/abhipatil119/Patil_Abhishek_002713962/tree/main/Insurance/Insurance",
   },
@@ -30,7 +30,7 @@ export const ProjectList = [
     img: "/assets/Trader_Joes.png",
     title: "Trader Joe's Ecommerce site",
     description:
-      "This is a fullstack ecommerce website for Trader Joe's with online grocery ordering- which includes complete online shopping experience including payment using the Paypal API",
+      "A fullstack ecommerce website for Trader Joe's with online grocery ordering- which includes complete online shopping experience including payment using the Paypal API",
     tech_stack: "React, Redux, NodeJS, Express, MongoDB, Bootstrap",
     github_url: "https://github.com/sowmyachinimilli/TraderJoesCart",
   },
