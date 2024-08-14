@@ -1,6 +1,16 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
+    img: "/assets/Tshirt_Customizer.png",
+    title: "Tshirt Customizer",
+    description:
+      "A project showcasing the fusion of modern web development techniques with AI and 3D modeling, offering a fully interactive and immersive experience.",
+    tech_stack: "React, Node, Express, Stable Diffusion API, Framer Motion, Three.js, Tailwind CSS",
+    github_url: "https://github.com/mayurimb/Tshirt_customizer",
+    demo_url: "https://t-customizer.vercel.app/",
+    demo: true,
+  },
+  {
     img: "/assets/Sweethome.png",
     title: "SweetHome",
     description:
